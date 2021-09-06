@@ -10,6 +10,7 @@ import NewsItem from './NewsItem';
 import Profile from './Profile';
 import RatedDoctor from './RatedDoctor';
 import ProfileItem from './ProfileItem';
+import Loading from './Loading';
 export {
   ProfileItem,
   ListHospital,
@@ -23,4 +24,5 @@ export {
   NewsItem,
   InputChat,
   Profile,
+  Loading,
 };
